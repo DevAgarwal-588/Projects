@@ -1,2 +1,2 @@
-# self-adm-projects
+# Projects
 Way to learn is to apply
